@@ -1,0 +1,30 @@
+body {background-color: #4f4f4f; font-family: sans-serif;}
+
+#h1 {
+    text-align: center;
+    color: whitesmoke;
+}
+form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em;
+}
+.input {
+    display: block;
+    padding: 0.375rem 0.75rem;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #bdbdbd;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    padding: 10px;
+
+}
+#login {margin-bottom: 10px;}
+#pass {margin-bottom: 50px;}
+#submit {margin-left: 30%;}
